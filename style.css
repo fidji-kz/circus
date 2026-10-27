@@ -1,0 +1,118 @@
+body{
+  font-family:arial;
+  background-color:#bebaf5;
+}
+
+h1{
+  text-align:center;
+  font-size:50px;
+  /*border:1px solid purple;*/
+  background-color:purple;
+  margin:20px 20px 0px 20px;
+  padding:30px;
+  border-radius:20px 20px 0px 0px;
+  color:white;
+}
+
+main{
+  text-align:left;
+  background-color:white;
+  margin:0px 20px 0px 20px;
+  padding:30px;
+  border-radius:0px 0px 20px 20px;
+}
+
+h2{
+  font-size:30px;
+  margin:19px 19px 10px 19px;
+  padding:10px;
+  border-radius:20px;
+}
+
+p{
+  font-size:25px;
+  margin:0px 19px 19px 19px;
+  padding:10px;
+  border-radius:20px;
+}
+
+.vip{
+  background-color:#f5d8b5;
+  border-left:10px solid #fcb33d;
+}
+
+.kid{
+  background-color:#bee8c2;
+  border-left:10px solid green;
+}
+
+.night{
+  background-color:#b5caf5;
+  border-left:10px solid blue;
+}
+
+.today{
+  background-color:#e1e1e3;
+  border-left:10px solid #919191;
+}
+
+h2.today{
+  margin:90px 19px 10px 19px;
+}
+
+div{
+  background-color:#bebaf5;
+  padding:10px;
+  border-radius:20px;
+}
+
+.qwerty{
+  background-color:white;
+}
+
+section{
+  display: inline-block;
+  margin:19px;
+}
+
+section h2{
+  font-size:30px;
+  margin:0px 19px 0px 19px;
+  padding:10px;
+}
+
+section p{
+  font-size:25px;
+  margin:0px 19px 0px 19px;
+  padding:10px;
+}
+
+.vip-b{
+  background-color:white;
+  border-left:10px solid #fcb33d;
+  border-radius:20px;
+}
+
+.night-b{
+  background-color:white;
+  border-left:10px solid green;
+  border-radius:20px;
+}
+
+.kid-b{
+  background-color:white;
+  border-left:10px solid blue;
+  border-radius:20px;
+}
+
+.free{
+  font-family:Mono;
+}
+
+.buy{
+  font-family:courier;
+}
+
+a{
+  color:black;
+}
